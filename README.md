@@ -1,6 +1,6 @@
 # Vapoursynth PickFrames Plugin
 
-**Archived because the filter is intergrated into [my fork of akarin plugin](https://github.com/yuygfgg/akarin-vapoursynth-plugin)
+**Archived because the filter is intergrated into [my fork of akarin plugin](https://github.com/yuygfgg/akarin-vapoursynth-plugin)**
 
 The akarin plugin added PickFrames in its v0.96g release, but now (and since 2 years ago) the filter is only available from the pre-built x86 only release binaries.
 
